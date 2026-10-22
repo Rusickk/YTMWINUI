@@ -1,6 +1,6 @@
 <p align="left">
-  <a href="README.md"><img src="https://img.shields.io/badge/English-6c757d?style=flat-square" /></a>
-  <a href="README.ru.md"><img src="https://img.shields.io/badge/Русский-0078D4?style=flat-square" /></a>
+  <a href="README.md"><img src="https://shieldcn.dev/badge/English.svg?variant=outline" /></a>
+  <a href="README.ru.md"><img src="https://shieldcn.dev/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-0078D4.svg" /></a>
 </p>
 
 <div align="center">
@@ -12,11 +12,11 @@
   <br />
 
   <p>
-    <img src="https://img.shields.io/badge/Windows_10_%7C_11-0078D4?style=flat-square&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/WinUI_3-512BD4?style=flat-square" />
-    <img src="https://img.shields.io/badge/.NET_8.0-512BD4?style=flat-square" />
-    <img src="https://img.shields.io/badge/WebView2-0078D7?style=flat-square&logo=microsoftedge&logoColor=white" />
-    <img src="https://img.shields.io/badge/MIT-2ea44f?style=flat-square" />
+    <img src="https://shieldcn.dev/badge/Windows%2010%20%7C%2011-0078D4.svg?logo=windows" />
+    <img src="https://shieldcn.dev/badge/WinUI%203-512BD4.svg" />
+    <img src="https://shieldcn.dev/badge/.NET%208.0-512BD4.svg" />
+    <img src="https://shieldcn.dev/badge/WebView2-0078D7.svg?logo=microsoftedge" />
+    <img src="https://shieldcn.dev/badge/MIT-2ea44f.svg" />
   </p>
 
 </div>
