@@ -1,6 +1,6 @@
 <p align="left">
-  <a href="README.md"><img src="https://img.shields.io/badge/Language-English-0078D4?style=flat-square" alt="English" /></a>
-  <a href="README.ru.md"><img src="https://img.shields.io/badge/Язык-Русский-6c757d?style=flat-square" alt="Русский" /></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/English-0078D4?style=for-the-badge" alt="English" /></a>
+  <a href="README.ru.md"><img src="https://img.shields.io/badge/Русский-6c757d?style=for-the-badge" alt="Русский" /></a>
 </p>
 
 <div align="center">
@@ -12,11 +12,11 @@
   <br />
 
   <p>
-    <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
-    <img src="https://img.shields.io/badge/Framework-WinUI%203-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WinUI 3" />
-    <img src="https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
-    <img src="https://img.shields.io/badge/Engine-WebView2-0078D7?style=flat-square&logo=microsoftedge&logoColor=white" alt="WebView2" />
-    <img src="https://img.shields.io/badge/License-MIT-2ea44f?style=flat-square" alt="MIT License" />
+    <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+    <img src="https://img.shields.io/badge/Framework-WinUI%203-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="WinUI 3" />
+    <img src="https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 8" />
+    <img src="https://img.shields.io/badge/Engine-WebView2-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="WebView2" />
+    <img src="https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge" alt="MIT License" />
   </p>
 
 </div>
