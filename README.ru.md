@@ -1,8 +1,9 @@
-<div align="center">
+<p align="left">
+  <a href="README.md"><img src="https://img.shields.io/badge/Language-English-6c757d?style=flat-square" alt="English" /></a>
+  <a href="README.ru.md"><img src="https://img.shields.io/badge/Язык-Русский-0078D4?style=flat-square" alt="Русский" /></a>
+</p>
 
-  <p>
-    <a href="README.md"><b>English</b></a> • <b>Русский</b>
-  </p>
+<div align="center">
 
   # YouTubeMusic-WINUI
 
