@@ -1,12 +1,22 @@
 <div align="center">
 
   <p>
-    <b>English</b> • <a href="README.ru.md">Русский</a>
+    <b>English</b> • <a href="README.ru.md"><b>Русский</b></a>
   </p>
 
   # YouTubeMusic-WINUI
 
-  A desktop client for YouTube Music on Windows 10 and 11, built with WinUI 3 and Microsoft Edge WebView2.
+  **A modern desktop client for YouTube Music built with WinUI 3 and Microsoft Edge WebView2.**
+
+  <br />
+
+  <p>
+    <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+    <img src="https://img.shields.io/badge/Framework-WinUI%203-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WinUI 3" />
+    <img src="https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
+    <img src="https://img.shields.io/badge/Engine-WebView2-0078D7?style=flat-square&logo=microsoftedge&logoColor=white" alt="WebView2" />
+    <img src="https://img.shields.io/badge/License-MIT-2ea44f?style=flat-square" alt="MIT License" />
+  </p>
 
 </div>
 
@@ -14,28 +24,69 @@
 
 ## About
 
-YouTubeMusic-WINUI wraps the YouTube Music web interface into a native Windows application, adding Fluent Design styling, synchronized lyrics, audio enhancements, and ad blocking.
+> YouTubeMusic-WINUI integrates the YouTube Music web interface into a native Windows desktop shell, combining Windows 11 Fluent Design materials, synchronized lyrics, audio enhancements, and ad blocking.
+
+---
 
 ## Features
 
-- **Windows 11 Fluent Design**: Supports Mica, Mica Alt, and Desktop Acrylic window backdrop materials, as well as Dark and Light themes.
-- **Navigation Layout**: The navigation menu can be positioned on the left side or at the top of the window.
-- **Synchronized Lyrics**: Displays time-synced or plain lyrics from LRCLIB with auto-scroll and line click seeking.
-- **Lyrics Translation**: In-app real-time translation of song lyrics into a chosen language, with the option to exclude specific languages from translation.
-- **Fullscreen Player**: Fullscreen view with track controls, lyrics, and an animated blurred album artwork background.
-- **Mini-Player**: Compact player controls built directly into the sidebar and top navigation bars.
-- **AdBlock**: Suppresses video advertisements and promotional banners.
-- **SponsorBlock**: Automatically skips sponsored segments, intros, and outros in tracks.
-- **Crossfade**: Smooth volume transitions between tracks.
-- **Quality Settings**: Option to force maximum audio quality and choose preferred video quality.
-- **Bypass Restrictions**: Integrated Sing-box SOCKS5 proxy to access YouTube Music in restricted regions.
-- **Search**: Search box with auto-suggestions and recent search history.
+<table>
+  <tr>
+    <th width="50%">Interface & Design</th>
+    <th width="50%">Lyrics & Fullscreen</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li><b>Windows 11 Materials</b>: Support for <code>Mica</code>, <code>Mica Alt</code>, and <code>Desktop Acrylic</code> backdrops.</li>
+        <li><b>Theme Customization</b>: System, Dark, and Light themes.</li>
+        <li><b>Flexible Navigation</b>: Switch between a left sidebar and a compact horizontal top menu.</li>
+        <li><b>Integrated Mini-Player</b>: Embedded playback controls inside the sidebar and top bar.</li>
+        <li><b>Search & History</b>: Search suggestions with local query history.</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><b>Synchronized Lyrics</b>: Real-time time-synced and plain lyrics from the LRCLIB database.</li>
+        <li><b>Auto-Scroll & Seek</b>: Automatic line following with click-to-seek functionality.</li>
+        <li><b>Lyrics Translation</b>: In-app real-time translation into selected languages with exclusion filters.</li>
+        <li><b>Fullscreen Mode</b>: Dedicated player screen with animated blurred album artwork background.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th width="50%">Playback & Enhancements</th>
+    <th width="50%">Network & Privacy</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li><b>AdBlock</b>: Suppresses video advertisements and promotional banners.</li>
+        <li><b>SponsorBlock</b>: Automatically skips sponsored segments, intros, and outros.</li>
+        <li><b>Audio Crossfade</b>: Smooth volume transitions between tracks.</li>
+        <li><b>Quality Control</b>: Forced maximum audio bitrate and configurable video resolution.</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><b>Bypass Restrictions</b>: Integrated local Sing-box SOCKS5 proxy to access YouTube Music in restricted regions.</li>
+        <li><b>Single-Click Toggle</b>: Enable or disable the proxy directly from the settings page without affecting system-wide VPN.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## System Requirements
+---
 
-- Windows 10 (version 1809 or newer) or Windows 11.
-- Microsoft Edge WebView2 Evergreen Runtime.
+## Requirements
+
+| Component | Requirement |
+| :--- | :--- |
+| **Operating System** | Windows 10 (version 1809 / build 17763 or newer) or Windows 11 |
+| **Runtime** | Microsoft Edge WebView2 Evergreen Runtime |
+
+---
 
 ## License
 
-MIT License.
+This project is licensed under the [MIT License](LICENSE).
