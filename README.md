@@ -5,10 +5,9 @@
 
 <div align="center">
 
-  # YouTubeMusic-WINUI
+  <img src="https://shieldcn.dev/header/glow.svg?title=YouTubeMusic-WINUI&subtitle=A+modern+desktop+client+for+YouTube+Music+built+with+WinUI+3+and+Microsoft+Edge+WebView2&logo=youtubemusic&theme=rose&mode=dark" />
 
-  **A modern desktop client for YouTube Music built with WinUI 3 and Microsoft Edge WebView2.**
-
+  <br />
   <br />
 
   <p>
