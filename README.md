@@ -20,8 +20,6 @@
 
 </div>
 
----
-
 ## About
 
 > YouTubeMusic-WINUI integrates the YouTube Music web interface into a native Windows desktop shell, combining Windows 11 Fluent Design materials, synchronized lyrics, audio enhancements, and ad blocking.
@@ -31,8 +29,6 @@
 <p align="center">
   <img src="screenshots/Home.webp" />
 </p>
-
----
 
 ## Features
 
@@ -82,8 +78,6 @@
   </tr>
 </table>
 
----
-
 ## Synchronized Lyrics & Translation
 
 <p align="center">
@@ -98,16 +92,12 @@ YouTubeMusic-WINUI integrates a dedicated lyrics module powered by the LRCLIB da
 - **Language Exclusion Filter**: Specify languages you do not want translated (e.g. your native language).
 - **Dual Mode Support**: Synchronized karaoke-style display or standard static text when timed lyrics are unavailable.
 
----
-
 ## Requirements
 
 | Component | Requirement |
 | :--- | :--- |
 | **Operating System** | Windows 10 (version 1809 / build 17763 or newer) or Windows 11 |
 | **Runtime** | Microsoft Edge WebView2 Evergreen Runtime |
-
----
 
 ## License
 
