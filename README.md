@@ -92,6 +92,18 @@ YouTubeMusic-WINUI integrates a dedicated lyrics module powered by the LRCLIB da
 - **Language Exclusion Filter**: Specify languages you do not want translated (e.g. your native language).
 - **Dual Mode Support**: Synchronized karaoke-style display or standard static text when timed lyrics are unavailable.
 
+## Fullscreen Player & Animated Artworks
+
+<p align="center">
+  <img src="screenshots/record.webp" />
+</p>
+
+The dedicated fullscreen player offers an immersive visual playback experience:
+
+- **Apple Music Animated Artworks**: Automatically fetches and displays official animated album covers directly from Apple Music.
+- **Dynamic Animated Gradient**: Smooth blurred background gradient dynamically calculated from the palette of the current track's album art.
+- **Minimalist Controls**: Immersive fullscreen view with subtle playback controls and track details.
+
 ## Requirements
 
 | Component | Requirement |
